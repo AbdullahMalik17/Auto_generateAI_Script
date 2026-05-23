@@ -1,0 +1,6 @@
+{
+  "name": "AI Funny Script Creator",
+  "description": "Generate funny daily script suggestions and build professional, AI-optimized video scripts with AI prompt generation for video engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
